@@ -1,0 +1,71 @@
+#hh {
+display: block;
+}
+
+
+#desktop1{
+    width: 1300px;
+    height: 600px;
+    background-color: thistle;
+    display: none;
+    position: relative;
+}
+#desktop2{
+    width: 1300px;
+    height: 600px;
+    background-color: thistle;
+    display: none;
+    position: relative;
+}
+#desktop3{
+    width: 1300px;
+    height: 600px;
+    background-color: thistle;
+    display: none;
+    position: relative;
+    z-index: 3000;
+}
+#desktop4{
+    width: 1300px;
+    height: 600px;
+    background-color: thistle;
+    position: relative;
+    z-index: 1000;
+}
+
+.image {
+    width: 100%;
+    height: 600px;
+    position: absolute;
+}
+
+#d1{
+    width: 50%;
+    height: 100px;
+    margin: 50px;
+    position: absolute;
+    background-color: skyblue;
+}
+
+#d2{
+    width: 100px;
+    margin: 10px;
+    position: absolute;
+    background-color: whitesmoke;
+}
+#d3{
+    width: 30%;
+    margin-bottom: 300px;
+    margin-top: 50px;
+    margin-left: 200px;
+    padding-top: 30px;
+    position: absolute;
+    background-color: lightgreen;
+}
+#d4{
+    width: 80%;
+    height: 60px;
+    margin: 10px;
+    position: absolute;
+    background-color: burlywood;
+}
