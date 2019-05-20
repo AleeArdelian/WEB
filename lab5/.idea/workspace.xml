@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d541acff-52b0-4cca-b440-dff5c9d7e0d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32738A6E00000578-3504412-image-a-6_1458654517341.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JqCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enhanced-buzz-1492-1379411828-15_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQ.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jQjs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo-1500382017468-9049fed747ef.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/water-lily-3784022__340.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab52/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab52/32738A6E00000578-3504412-image-a-6_1458654517341.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab52/enhanced-buzz-1492-1379411828-15_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab52/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab52/jq.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab52/jq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab52/jq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab52/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab52/photo-1500382017468-9049fed747ef.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab52/water-lily-3784022__340.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,7 +14,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jQ.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jQjs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JqCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,9 +67,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jQ.html" />
         <option value="$PROJECT_DIR$/JqCSS.css" />
         <option value="$PROJECT_DIR$/jQjs.js" />
+        <option value="$PROJECT_DIR$/jQ.html" />
       </list>
     </option>
   </component>
@@ -76,7 +84,20 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -127,18 +148,19 @@
       <workItem from="1555653814888" duration="2030000" />
       <workItem from="1555670226746" duration="24000" />
       <workItem from="1557480080956" duration="2279000" />
+      <workItem from="1558337117591" duration="3360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13554000" />
+    <option name="totallyTimeSpent" value="16914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3198052" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.31875995" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -162,24 +184,24 @@
     <entry file="file://$PROJECT_DIR$/jquery-3.3.1.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/JqCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jQ.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="238">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jQjs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JqCSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="187">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>
